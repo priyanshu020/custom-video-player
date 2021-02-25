@@ -5,3 +5,5 @@
 This application uses JavaScript DOM elements to add custom controls.
   
 ## Deployment
+
+https://your-custom-video-player.netlify.app/
